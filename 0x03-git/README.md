@@ -1,1 +1,1 @@
-Adding my first directory
+My second readme
