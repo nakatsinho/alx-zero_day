@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Schools"
-New dkdir 0x03-git
+echo "The school is open!"
